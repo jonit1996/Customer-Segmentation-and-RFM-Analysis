@@ -61,5 +61,5 @@ Make sure you have Python installed. You can install the required packages using
 - **Customer Segments:** The segmentation identifies key customer groups that can be targeted with specific marketing strategies to improve retention and increase
   revenue.
 ## License
-This project is licensed under the  - see the LICENSE file for details.
+This project is licensed under the Apache License Version 2.0  - see the LICENSE file for details.
 
